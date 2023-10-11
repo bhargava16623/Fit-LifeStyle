@@ -2,8 +2,7 @@
 This project is developed for future ready virtual internship program.
 # Screenshots of azure services used:
 <h2>1.Health bot:</h2>
-![image](https://github.com/bhargava16623/Fit-LifeStyle/assets/105556187/d56d7bd4-d420-4cbf-a90f-9527dda58e99)
-<img src="https://github.com/bhargava16623/Fit-LifeStyle/assets/105556187/d56d7bd4-d420-4cbf-a90f-9527dda58e99" height="60" width="60" >
+<img src="https://github.com/bhargava16623/Fit-LifeStyle/assets/105556187/d56d7bd4-d420-4cbf-a90f-9527dda58e99" height="120" width="120" >
 
 
 # Project link: https://black-water-0a7a34e00.3.azurestaticapps.net
