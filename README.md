@@ -1,5 +1,9 @@
 # Fit-LifeStyle
-This project is developed for future ready virtual inetrnship program.
+This project is developed for future ready virtual internship program.
+# Screenshots of azure services used:
+<h2>1.Health bot:</h2>
+![image](https://github.com/bhargava16623/Fit-LifeStyle/assets/105556187/d56d7bd4-d420-4cbf-a90f-9527dda58e99)
+
 
 # Project link: https://black-water-0a7a34e00.3.azurestaticapps.net
 # Project demo video link:https://youtu.be/vivhj_dtu7s
