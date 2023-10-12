@@ -4,6 +4,8 @@ This project is developed for future ready virtual internship program.
 <h2>1.Health bot:</h2>
 <img src="https://github.com/bhargava16623/Fit-LifeStyle/assets/105556187/d56d7bd4-d420-4cbf-a90f-9527dda58e99" height="800" width="1000" >
 <img src="https://github.com/bhargava16623/Fit-LifeStyle/assets/105556187/f0070f7b-1dc1-41cb-92cb-5f2754c29a13" height="800" width="1000" >
+<h2>2.Static</h2>
+<img src="https://github.com/bhargava16623/Fit-LifeStyle/assets/105556187/e820c915-f6d9-4161-bea3-7da3801facfa" height="800" width="1000" >
 
 
 
